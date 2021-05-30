@@ -1,0 +1,5 @@
+cmd ‘mute’:
+True:
+group_id message.chat.username
+message id message.message id
+robot.Mute Chat(group_id group_id,message id message id)
